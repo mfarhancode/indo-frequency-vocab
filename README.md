@@ -5,12 +5,10 @@ A structured JSON dataset of high-frequency Indonesian vocabulary focused on eve
 ## Live Dictionary
 
 Browse and search the dataset online via GitHub Pages:  
-`https://mfarhancode.github.io/indo-frequency-vocab/`
+[`https://mfarhancode.github.io/indo-frequency-vocab/`](https://mfarhancode.github.io/indo-frequency-vocab/)
 
 Raw JSON endpoint:  
-`https://raw.githubusercontent.com/mfarhancode/indo-frequency-vocab/main/vocab.json`
-
----
+[`https://raw.githubusercontent.com/mfarhancode/indo-frequency-vocab/main/vocab.json`](https://raw.githubusercontent.com/mfarhancode/indo-frequency-vocab/main/vocab.json)
 
 ## Source Data
 
